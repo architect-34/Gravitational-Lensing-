@@ -1,9 +1,3 @@
-# Gravitational-Lensing-
-Constructing source plane of galaxies using the gravitationally lensed image 
-Below is a clean, professional **README.md** suitable for a GitHub repository hosting the attached `lensing.ipynb` notebook. It is written to be understandable to reviewers, collaborators, and recruiters, and aligns well with an academic/astrophysics project portfolio.
-
----
-
 # Gravitational Lensing Simulation and Reconstruction
 
 ## Overview
